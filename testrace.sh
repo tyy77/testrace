@@ -9,7 +9,7 @@ echo -e "${Green_font}
 # Project: testrace
 # Version: 1.2
 # Author: nanqinlang
-# Blog:   https://sometimesnaive.org
+# Blog:   
 # Github: https://github.com/nanqinlang
 #======================================
 ${Font_suffix}"
